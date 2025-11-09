@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studying computer science **s involving data cleaning, feature engineering, and model deployment.**
+- 🔭 I’m currently studying computer science **involving data cleaning, feature engineering, and model deployment.**
 
 - 🌱 I’m currently learning **Python for data science, SQL, and deep learning frameworks like TensorFlow and PyTorch.**
 

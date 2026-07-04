@@ -2,10 +2,7 @@
 
 <div align="center">
 
-# Mushtaque Ali
-### AI Engineer & ML Developer from Pakistan 🇵🇰
 
-*I build production-ready AI applications — from raw data to scalable deployed products.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://mushtaque-portfolio.vercel.app/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mrmushtaque)

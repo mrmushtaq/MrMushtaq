@@ -80,11 +80,12 @@ me.say_hi()
 > Food recognition using Vision Transformer (Food-101, 101 classes) + Groq LLaMA-3.3-70B personalized coaching. Full-stack with Streamlit, SQLite, Docker, Hugging Face deployment.
 > **88% classification accuracy · Sub-second inference · Containerized with Docker**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://mrmushtaq-nutrisense-ai.hf.space)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrmushtaq/Nutrisense-Ai)
 ![EfficientNet](https://img.shields.io/badge/EfficientNet-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ---
 
@@ -92,17 +93,20 @@ me.say_hi()
 > Full-stack MERN app with role-based access (customer/restaurant/admin), real-time order tracking, MongoDB Atlas, and sales dashboard.
 > **3 user roles · Deployed on Vercel · End-to-end order lifecycle**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=vercel&logoColor=white)](https://delish-drop-restaurant-management-by-mushtaq.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/mrmushtaq](https://github.com/mrmushtaq/DelishDrop-Restaurant-Management-System))
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ### 💻 [Live Code Editor](https://mrmushtaq.github.io/Web-Engineering-Project-Live-Code-Editor-of-HTML-CSS-JS/) — Browser-based IDE
 > Real-time HTML/CSS/JS live editor with instant preview. Zero dependencies, runs entirely in the browser.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=googlechrome&logoColor=white)](https://mrmushtaq.github.io/Web-Engineering-Project-Live-Code-Editor-of-HTML-CSS-JS/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrmushtaq/Web-Engineering-Project-Live-Code-Editor-of-HTML-CSS-JS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -112,6 +116,7 @@ me.say_hi()
 ### 🧠 Naive Bayes Classifier — Built from Scratch
 > Custom implementation with Laplace Smoothing — within 2% of Scikit-learn's GaussianNB across 3 benchmark datasets. CLI interface for interactive predictions.
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrmushtaq/naive-bayes-classifier-python)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)

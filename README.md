@@ -1,8 +1,8 @@
-![Banner](https://github.com/mrmushtaq/MrMushtaq/blob/main/Banner.png)
+<div align="center">
+<img src="https://github.com/mrmushtaq/MrMushtaq/blob/main/Banner.png" width="800"/>
+</div>
 
 <div align="center">
-
-
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://mushtaque-portfolio.vercel.app/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mrmushtaque)

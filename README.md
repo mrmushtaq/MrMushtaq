@@ -1,6 +1,8 @@
+<br>
 <div align="center">
-<img src="https://github.com/mrmushtaq/MrMushtaq/blob/main/Banner.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/mrmushtaq/MrMushtaq/main/Banner.png" alt="Mushtaque Ali Banner" width="850" />
 </div>
+<br>
 
 <div align="center">
 
